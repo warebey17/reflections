@@ -1,0 +1,3 @@
+Reflections for March 2nd 2016
+
+ON Wednesday March 2nd I spent the day in class working on chnges to the website page that I uploaded to github.  The page was copied from the devcodecamp.github.io page.  There were two additional assignments in slack we were to work on.  Research to have a 64 AI players in Civ5. Also work out how I want you to find out how to install IIS on your computers also what is iis.  I didn't get much of this done as I was trying to have my macbook converted to windows with Robert Moon.  There was also a question and answer session to get prepared for the first test.  Finally there where some google questins to get us better equipped to search with google.
