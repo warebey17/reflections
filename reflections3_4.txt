@@ -1,0 +1,3 @@
+Reflections for 3/4 2016
+
+Today on March 4th 2016 I continued to work on yesterdays homewrok assignments and cleaned up my code.  We had a lecture on objects and classes.  We also went over functions and were asked to ake our first homework assignment from the previous day and use a functions to make it work.  We were also asked to include objects and classes in our story that we created in java the previous day.These assignments are due on Monday March 7th of next week.

@@ -1,0 +1,3 @@
+On March 3rd 2016
+
+On March 3rd I was able to finally get my macbook pro converted to a PC with Microsoft 10 installed.  We started to learn the Java language and had two assignments that we were to work on.  Additional assignments were assigned and due the following day.  I started to use Eclipse which is a text editor that allows java code to run.  During our lecture we learned how to do "if" "else" statements to work through an argument in our code.  We also learned how to do the "switch" along with conditionals.  I spent the remainder of the day learning these things and trying to understand them.
